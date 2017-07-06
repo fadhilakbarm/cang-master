@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CANGS</string>
+    <string name="title">Ayam Nelongso</string>
+    <string name="description">Manyar , Surabaya</string>
+
+
+    <string-array name="image_ids">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+    </string-array>
+
+    <!--Intro Slider-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI!</string>
+
+    <string name="slide_1_title">Tempat Nongkrong</string>
+    <string name="slide_1_desc">Jelajahi tempat nongkrong disekitarmu!</string>
+
+    <string name="slide_2_title">Kuliner</string>
+    <string name="slide_2_desc">Temukan aneka macam kuliner kesukaanmu!</string>
+
+    <string name="slide_3_title">Cafe &amp; Resto</string>
+    <string name="slide_3_desc">Nongkrong bareng keluarga dan teman-temanmu!</string>
+
+    <string name="slide_4_title">Diskon</string>
+    <string name="slide_4_desc">Dapatkan diskon dan promo berbagai makanan dan minuman!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
